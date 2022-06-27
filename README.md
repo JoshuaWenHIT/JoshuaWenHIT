@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wen Jiazheng in HIT, Joshua Wen as my English name. 
 - 👀 I’m interested in AI and CVs.
 - 🌱 I’m currently learning "How to send my local code to my online Github account ?".
-- 💞️ I’m looking to collaborate on the field of AI on micro system (I am just a beginner.) . 
+- 💞️ I’m looking to collaborate on the field of Reinforcement Learning and Multi-Object Tracking . 
 - 📫 Please send e-mails to "joshuawenhit@gmail.com" !
 
 <!---
