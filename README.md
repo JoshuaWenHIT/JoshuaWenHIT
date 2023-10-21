@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoshuaWenHIT&show_icons=true&&theme=default "/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoshuaWenHIT&theme=blue-green"/>
 
 - 👋 Hi, I’m Wen Jiazheng in HIT, Joshua Wen as my English name. 
 - 👀 I’m interested in AI.
